@@ -1,0 +1,833 @@
+Measre,Crop,Irrifation,Plot,Depth,Time,Value
+VolumetricWaterContent,Dash ,High,206,0-15(InRow),1,0.2264
+VolumetricWaterContent,Dash ,High,206,0-15(btwRow),1,0.2021
+VolumetricWaterContent,Dash ,High,206,15-30,1,0.2535
+VolumetricWaterContent,Dash ,High,206,30-60,1,0.2867
+VolumetricWaterContent,Dash ,High,206,60-90,1,0.3438
+VolumetricWaterContent,Dash ,High,206,90-120,1,0.2937
+VolumetricWaterContent,Dash ,High,206,120-150,1,0.4325
+VolumetricWaterContent,Dash ,High,206,150-180,1,0.4211
+VolumetricWaterContent,Omaka,High,208,0-15(InRow),1,0.1766
+VolumetricWaterContent,Omaka,High,208,0-15(btwRow),1,0.178
+VolumetricWaterContent,Omaka,High,208,15-30,1,0.1989
+VolumetricWaterContent,Omaka,High,208,30-60,1,0.3288
+VolumetricWaterContent,Omaka,High,208,60-90,1,0.3729
+VolumetricWaterContent,Omaka,High,208,90-120,1,0.3703
+VolumetricWaterContent,Omaka,High,208,120-150,1,0.2365
+VolumetricWaterContent,Omaka,High,208,150-180,1,0.4193
+VolumetricWaterContent,Dash ,High,211,0-15(InRow),1,0.1769
+VolumetricWaterContent,Dash ,High,211,0-15(btwRow),1,0.1687
+VolumetricWaterContent,Dash ,High,211,15-30,1,0.2194
+VolumetricWaterContent,Dash ,High,211,30-60,1,0.3331
+VolumetricWaterContent,Dash ,High,211,60-90,1,0.3822
+VolumetricWaterContent,Dash ,High,211,90-120,1,0.3432
+VolumetricWaterContent,Dash ,High,211,120-150,1,0.4052
+VolumetricWaterContent,Dash ,High,211,150-180,1,0.347
+VolumetricWaterContent,Omaka,High,202,0-15(InRow),1,0.1386
+VolumetricWaterContent,Omaka,High,202,0-15(btwRow),1,0.1623
+VolumetricWaterContent,Omaka,High,202,15-30,1,0.1829
+VolumetricWaterContent,Omaka,High,202,30-60,1,0.2761
+VolumetricWaterContent,Omaka,High,202,60-90,1,0.3857
+VolumetricWaterContent,Omaka,High,202,90-120,1,0.3961
+VolumetricWaterContent,Omaka,High,202,120-150,1,0.3521
+VolumetricWaterContent,Omaka,High,202,150-180,1,0.4168
+VolumetricWaterContent,Omaka,High,213,0-15(InRow),1,0.1875
+VolumetricWaterContent,Omaka,High,213,0-15(btwRow),1,0.1846
+VolumetricWaterContent,Omaka,High,213,15-30,1,0.2468
+VolumetricWaterContent,Omaka,High,213,30-60,1,0.3965
+VolumetricWaterContent,Omaka,High,213,60-90,1,0.3368
+VolumetricWaterContent,Omaka,High,213,90-120,1,0.3308
+VolumetricWaterContent,Omaka,High,213,120-150,1,0.4038
+VolumetricWaterContent,Omaka,High,213,150-180,1,0.3011
+VolumetricWaterContent,Dash ,High,215,0-15(InRow),1,0.191
+VolumetricWaterContent,Dash ,High,215,0-15(btwRow),1,0.1569
+VolumetricWaterContent,Dash ,High,215,15-30,1,0.2903
+VolumetricWaterContent,Dash ,High,215,30-60,1,0.3529
+VolumetricWaterContent,Dash ,High,215,60-90,1,0.394
+VolumetricWaterContent,Dash ,High,215,90-120,1,0.4251
+VolumetricWaterContent,Dash ,High,215,120-150,1,0.3483
+VolumetricWaterContent,Dash ,High,215,150-180,1,0.3932
+VolumetricWaterContent,Dash ,High,221,0-15(InRow),1,0.1936
+VolumetricWaterContent,Dash ,High,221,0-15(btwRow),1,0.1781
+VolumetricWaterContent,Dash ,High,221,15-30,1,0.2585
+VolumetricWaterContent,Dash ,High,221,30-60,1,0.3145
+VolumetricWaterContent,Dash ,High,221,60-90,1,0.3282
+VolumetricWaterContent,Dash ,High,221,90-120,1,0.3335
+VolumetricWaterContent,Dash ,High,221,120-150,1,0.2961
+VolumetricWaterContent,Dash ,High,221,150-180,1,0.386
+VolumetricWaterContent,Omaka,High,222,0-15(InRow),1,0.1537
+VolumetricWaterContent,Omaka,High,222,0-15(btwRow),1,0.1833
+VolumetricWaterContent,Omaka,High,222,15-30,1,0.1951
+VolumetricWaterContent,Omaka,High,222,30-60,1,0.2977
+VolumetricWaterContent,Omaka,High,222,60-90,1,0.246
+VolumetricWaterContent,Omaka,High,222,90-120,1,0.37
+VolumetricWaterContent,Omaka,High,222,120-150,1,0.3418
+VolumetricWaterContent,Omaka,High,222,150-180,1,0.3611
+VolumetricWaterContent,Dash ,High,206,0-15(InRow),2,0.2264
+VolumetricWaterContent,Dash ,High,206,0-15(btwRow),2,0.2021
+VolumetricWaterContent,Dash ,High,206,15-30,2,0.2536
+VolumetricWaterContent,Dash ,High,206,30-60,2,0.2867
+VolumetricWaterContent,Dash ,High,206,60-90,2,0.3438
+VolumetricWaterContent,Dash ,High,206,90-120,2,0.2937
+VolumetricWaterContent,Dash ,High,206,120-150,2,0.4325
+VolumetricWaterContent,Dash ,High,206,150-180,2,0.4211
+VolumetricWaterContent,Omaka,High,208,0-15(InRow),2,0.1765
+VolumetricWaterContent,Omaka,High,208,0-15(btwRow),2,0.178
+VolumetricWaterContent,Omaka,High,208,15-30,2,0.1988
+VolumetricWaterContent,Omaka,High,208,30-60,2,0.3288
+VolumetricWaterContent,Omaka,High,208,60-90,2,0.3729
+VolumetricWaterContent,Omaka,High,208,90-120,2,0.3703
+VolumetricWaterContent,Omaka,High,208,120-150,2,0.2365
+VolumetricWaterContent,Omaka,High,208,150-180,2,0.4193
+VolumetricWaterContent,Dash ,High,211,0-15(InRow),2,0.1766
+VolumetricWaterContent,Dash ,High,211,0-15(btwRow),2,0.1687
+VolumetricWaterContent,Dash ,High,211,15-30,2,0.2194
+VolumetricWaterContent,Dash ,High,211,30-60,2,0.3331
+VolumetricWaterContent,Dash ,High,211,60-90,2,0.3822
+VolumetricWaterContent,Dash ,High,211,90-120,2,0.3431
+VolumetricWaterContent,Dash ,High,211,120-150,2,0.4052
+VolumetricWaterContent,Dash ,High,211,150-180,2,0.347
+VolumetricWaterContent,Omaka,High,202,0-15(InRow),2,0.1387
+VolumetricWaterContent,Omaka,High,202,0-15(btwRow),2,0.1623
+VolumetricWaterContent,Omaka,High,202,15-30,2,0.1829
+VolumetricWaterContent,Omaka,High,202,30-60,2,0.2761
+VolumetricWaterContent,Omaka,High,202,60-90,2,0.3857
+VolumetricWaterContent,Omaka,High,202,90-120,2,0.3961
+VolumetricWaterContent,Omaka,High,202,120-150,2,0.3521
+VolumetricWaterContent,Omaka,High,202,150-180,2,0.4169
+VolumetricWaterContent,Omaka,High,213,0-15(InRow),2,0.1875
+VolumetricWaterContent,Omaka,High,213,0-15(btwRow),2,0.1846
+VolumetricWaterContent,Omaka,High,213,15-30,2,0.2468
+VolumetricWaterContent,Omaka,High,213,30-60,2,0.3967
+VolumetricWaterContent,Omaka,High,213,60-90,2,0.3368
+VolumetricWaterContent,Omaka,High,213,90-120,2,0.3308
+VolumetricWaterContent,Omaka,High,213,120-150,2,0.4038
+VolumetricWaterContent,Omaka,High,213,150-180,2,0.3011
+VolumetricWaterContent,Dash ,High,215,0-15(InRow),2,0.191
+VolumetricWaterContent,Dash ,High,215,0-15(btwRow),2,0.1568
+VolumetricWaterContent,Dash ,High,215,15-30,2,0.2899
+VolumetricWaterContent,Dash ,High,215,30-60,2,0.3529
+VolumetricWaterContent,Dash ,High,215,60-90,2,0.394
+VolumetricWaterContent,Dash ,High,215,90-120,2,0.4251
+VolumetricWaterContent,Dash ,High,215,120-150,2,0.3483
+VolumetricWaterContent,Dash ,High,215,150-180,2,0.3932
+VolumetricWaterContent,Dash ,High,221,0-15(InRow),2,0.1936
+VolumetricWaterContent,Dash ,High,221,0-15(btwRow),2,0.178
+VolumetricWaterContent,Dash ,High,221,15-30,2,0.2588
+VolumetricWaterContent,Dash ,High,221,30-60,2,0.3145
+VolumetricWaterContent,Dash ,High,221,60-90,2,0.3283
+VolumetricWaterContent,Dash ,High,221,90-120,2,0.3335
+VolumetricWaterContent,Dash ,High,221,120-150,2,0.2961
+VolumetricWaterContent,Dash ,High,221,150-180,2,0.386
+VolumetricWaterContent,Omaka,High,222,0-15(InRow),2,0.1537
+VolumetricWaterContent,Omaka,High,222,0-15(btwRow),2,0.1833
+VolumetricWaterContent,Omaka,High,222,15-30,2,0.1951
+VolumetricWaterContent,Omaka,High,222,30-60,2,0.2976
+VolumetricWaterContent,Omaka,High,222,60-90,2,0.2461
+VolumetricWaterContent,Omaka,High,222,90-120,2,0.37
+VolumetricWaterContent,Omaka,High,222,120-150,2,0.3418
+VolumetricWaterContent,Omaka,High,222,150-180,2,0.3611
+VolumetricWaterContent,Dash ,High,206,0-15(InRow),3,0.2263
+VolumetricWaterContent,Dash ,High,206,0-15(btwRow),3,0.2021
+VolumetricWaterContent,Dash ,High,206,15-30,3,0.2535
+VolumetricWaterContent,Dash ,High,206,30-60,3,0.2867
+VolumetricWaterContent,Dash ,High,206,60-90,3,0.3438
+VolumetricWaterContent,Dash ,High,206,90-120,3,0.2937
+VolumetricWaterContent,Dash ,High,206,120-150,3,0.4325
+VolumetricWaterContent,Dash ,High,206,150-180,3,0.4211
+VolumetricWaterContent,Omaka,High,208,0-15(InRow),3,0.1765
+VolumetricWaterContent,Omaka,High,208,0-15(btwRow),3,0.178
+VolumetricWaterContent,Omaka,High,208,15-30,3,0.1986
+VolumetricWaterContent,Omaka,High,208,30-60,3,0.3288
+VolumetricWaterContent,Omaka,High,208,60-90,3,0.3729
+VolumetricWaterContent,Omaka,High,208,90-120,3,0.3703
+VolumetricWaterContent,Omaka,High,208,120-150,3,0.2365
+VolumetricWaterContent,Omaka,High,208,150-180,3,0.4193
+VolumetricWaterContent,Dash ,High,211,0-15(InRow),3,0.1766
+VolumetricWaterContent,Dash ,High,211,0-15(btwRow),3,0.1687
+VolumetricWaterContent,Dash ,High,211,15-30,3,0.2194
+VolumetricWaterContent,Dash ,High,211,30-60,3,0.3331
+VolumetricWaterContent,Dash ,High,211,60-90,3,0.3821
+VolumetricWaterContent,Dash ,High,211,90-120,3,0.3431
+VolumetricWaterContent,Dash ,High,211,120-150,3,0.4052
+VolumetricWaterContent,Dash ,High,211,150-180,3,0.347
+VolumetricWaterContent,Omaka,High,202,0-15(InRow),3,0.1387
+VolumetricWaterContent,Omaka,High,202,0-15(btwRow),3,0.1623
+VolumetricWaterContent,Omaka,High,202,15-30,3,0.183
+VolumetricWaterContent,Omaka,High,202,30-60,3,0.2761
+VolumetricWaterContent,Omaka,High,202,60-90,3,0.3857
+VolumetricWaterContent,Omaka,High,202,90-120,3,0.3961
+VolumetricWaterContent,Omaka,High,202,120-150,3,0.3521
+VolumetricWaterContent,Omaka,High,202,150-180,3,0.4168
+VolumetricWaterContent,Omaka,High,213,0-15(InRow),3,0.1875
+VolumetricWaterContent,Omaka,High,213,0-15(btwRow),3,0.1847
+VolumetricWaterContent,Omaka,High,213,15-30,3,0.2468
+VolumetricWaterContent,Omaka,High,213,30-60,3,0.3967
+VolumetricWaterContent,Omaka,High,213,60-90,3,0.3368
+VolumetricWaterContent,Omaka,High,213,90-120,3,0.3308
+VolumetricWaterContent,Omaka,High,213,120-150,3,0.4038
+VolumetricWaterContent,Omaka,High,213,150-180,3,0.3011
+VolumetricWaterContent,Dash ,High,215,0-15(InRow),3,0.191
+VolumetricWaterContent,Dash ,High,215,0-15(btwRow),3,0.1569
+VolumetricWaterContent,Dash ,High,215,15-30,3,0.29
+VolumetricWaterContent,Dash ,High,215,30-60,3,0.3529
+VolumetricWaterContent,Dash ,High,215,60-90,3,0.394
+VolumetricWaterContent,Dash ,High,215,90-120,3,0.4251
+VolumetricWaterContent,Dash ,High,215,120-150,3,0.3483
+VolumetricWaterContent,Dash ,High,215,150-180,3,0.3932
+VolumetricWaterContent,Dash ,High,221,0-15(InRow),3,0.1936
+VolumetricWaterContent,Dash ,High,221,0-15(btwRow),3,0.1781
+VolumetricWaterContent,Dash ,High,221,15-30,3,0.2585
+VolumetricWaterContent,Dash ,High,221,30-60,3,0.3145
+VolumetricWaterContent,Dash ,High,221,60-90,3,0.3282
+VolumetricWaterContent,Dash ,High,221,90-120,3,0.3335
+VolumetricWaterContent,Dash ,High,221,120-150,3,0.2961
+VolumetricWaterContent,Dash ,High,221,150-180,3,0.386
+VolumetricWaterContent,Omaka,High,222,0-15(InRow),3,0.1537
+VolumetricWaterContent,Omaka,High,222,0-15(btwRow),3,0.1832
+VolumetricWaterContent,Omaka,High,222,15-30,3,0.1948
+VolumetricWaterContent,Omaka,High,222,30-60,3,0.2977
+VolumetricWaterContent,Omaka,High,222,60-90,3,0.2461
+VolumetricWaterContent,Omaka,High,222,90-120,3,0.37
+VolumetricWaterContent,Omaka,High,222,120-150,3,0.3418
+VolumetricWaterContent,Omaka,High,222,150-180,3,0.3611
+VolumetricWaterContent,Dash ,High,206,0-15(InRow),4,0.2264
+VolumetricWaterContent,Dash ,High,206,0-15(btwRow),4,0.2021
+VolumetricWaterContent,Dash ,High,206,15-30,4,0.2535
+VolumetricWaterContent,Dash ,High,206,30-60,4,0.2867
+VolumetricWaterContent,Dash ,High,206,60-90,4,0.3438
+VolumetricWaterContent,Dash ,High,206,90-120,4,0.2937
+VolumetricWaterContent,Dash ,High,206,120-150,4,0.4325
+VolumetricWaterContent,Dash ,High,206,150-180,4,0.4211
+VolumetricWaterContent,Omaka,High,208,0-15(InRow),4,0.1766
+VolumetricWaterContent,Omaka,High,208,0-15(btwRow),4,0.1781
+VolumetricWaterContent,Omaka,High,208,15-30,4,0.1986
+VolumetricWaterContent,Omaka,High,208,30-60,4,0.3288
+VolumetricWaterContent,Omaka,High,208,60-90,4,0.3729
+VolumetricWaterContent,Omaka,High,208,90-120,4,0.3703
+VolumetricWaterContent,Omaka,High,208,120-150,4,0.2365
+VolumetricWaterContent,Omaka,High,208,150-180,4,0.4193
+VolumetricWaterContent,Dash ,High,211,0-15(InRow),4,0.1766
+VolumetricWaterContent,Dash ,High,211,0-15(btwRow),4,0.1687
+VolumetricWaterContent,Dash ,High,211,15-30,4,0.2194
+VolumetricWaterContent,Dash ,High,211,30-60,4,0.3331
+VolumetricWaterContent,Dash ,High,211,60-90,4,0.3821
+VolumetricWaterContent,Dash ,High,211,90-120,4,0.3432
+VolumetricWaterContent,Dash ,High,211,120-150,4,0.4052
+VolumetricWaterContent,Dash ,High,211,150-180,4,0.3469
+VolumetricWaterContent,Omaka,High,202,0-15(InRow),4,0.1387
+VolumetricWaterContent,Omaka,High,202,0-15(btwRow),4,0.1623
+VolumetricWaterContent,Omaka,High,202,15-30,4,0.1829
+VolumetricWaterContent,Omaka,High,202,30-60,4,0.2761
+VolumetricWaterContent,Omaka,High,202,60-90,4,0.3857
+VolumetricWaterContent,Omaka,High,202,90-120,4,0.3961
+VolumetricWaterContent,Omaka,High,202,120-150,4,0.3521
+VolumetricWaterContent,Omaka,High,202,150-180,4,0.4168
+VolumetricWaterContent,Omaka,High,213,0-15(InRow),4,0.1876
+VolumetricWaterContent,Omaka,High,213,0-15(btwRow),4,0.1843
+VolumetricWaterContent,Omaka,High,213,15-30,4,0.2469
+VolumetricWaterContent,Omaka,High,213,30-60,4,0.3967
+VolumetricWaterContent,Omaka,High,213,60-90,4,0.3368
+VolumetricWaterContent,Omaka,High,213,90-120,4,0.3308
+VolumetricWaterContent,Omaka,High,213,120-150,4,0.4038
+VolumetricWaterContent,Omaka,High,213,150-180,4,0.3011
+VolumetricWaterContent,Dash ,High,215,0-15(InRow),4,0.191
+VolumetricWaterContent,Dash ,High,215,0-15(btwRow),4,0.1569
+VolumetricWaterContent,Dash ,High,215,15-30,4,0.29
+VolumetricWaterContent,Dash ,High,215,30-60,4,0.3529
+VolumetricWaterContent,Dash ,High,215,60-90,4,0.394
+VolumetricWaterContent,Dash ,High,215,90-120,4,0.425
+VolumetricWaterContent,Dash ,High,215,120-150,4,0.3484
+VolumetricWaterContent,Dash ,High,215,150-180,4,0.3932
+VolumetricWaterContent,Dash ,High,221,0-15(InRow),4,0.1936
+VolumetricWaterContent,Dash ,High,221,0-15(btwRow),4,0.178
+VolumetricWaterContent,Dash ,High,221,15-30,4,0.2585
+VolumetricWaterContent,Dash ,High,221,30-60,4,0.3145
+VolumetricWaterContent,Dash ,High,221,60-90,4,0.3282
+VolumetricWaterContent,Dash ,High,221,90-120,4,0.3335
+VolumetricWaterContent,Dash ,High,221,120-150,4,0.2961
+VolumetricWaterContent,Dash ,High,221,150-180,4,0.3859
+VolumetricWaterContent,Omaka,High,222,0-15(InRow),4,0.1537
+VolumetricWaterContent,Omaka,High,222,0-15(btwRow),4,0.1832
+VolumetricWaterContent,Omaka,High,222,15-30,4,0.1951
+VolumetricWaterContent,Omaka,High,222,30-60,4,0.2977
+VolumetricWaterContent,Omaka,High,222,60-90,4,0.2461
+VolumetricWaterContent,Omaka,High,222,90-120,4,0.37
+VolumetricWaterContent,Omaka,High,222,120-150,4,0.3418
+VolumetricWaterContent,Omaka,High,222,150-180,4,0.3611
+VolumetricWaterContent,Dash ,High,206,0-15(InRow),5,0.2264
+VolumetricWaterContent,Dash ,High,206,0-15(btwRow),5,0.2018
+VolumetricWaterContent,Dash ,High,206,15-30,5,0.2535
+VolumetricWaterContent,Dash ,High,206,30-60,5,0.2867
+VolumetricWaterContent,Dash ,High,206,60-90,5,0.3438
+VolumetricWaterContent,Dash ,High,206,90-120,5,0.2937
+VolumetricWaterContent,Dash ,High,206,120-150,5,0.4325
+VolumetricWaterContent,Dash ,High,206,150-180,5,0.4211
+VolumetricWaterContent,Omaka,High,208,0-15(InRow),5,0.1765
+VolumetricWaterContent,Omaka,High,208,0-15(btwRow),5,0.1778
+VolumetricWaterContent,Omaka,High,208,15-30,5,0.1986
+VolumetricWaterContent,Omaka,High,208,30-60,5,0.3288
+VolumetricWaterContent,Omaka,High,208,60-90,5,0.3729
+VolumetricWaterContent,Omaka,High,208,90-120,5,0.3702
+VolumetricWaterContent,Omaka,High,208,120-150,5,0.2365
+VolumetricWaterContent,Omaka,High,208,150-180,5,0.4193
+VolumetricWaterContent,Dash ,High,211,0-15(InRow),5,0.1766
+VolumetricWaterContent,Dash ,High,211,0-15(btwRow),5,0.1684
+VolumetricWaterContent,Dash ,High,211,15-30,5,0.2194
+VolumetricWaterContent,Dash ,High,211,30-60,5,0.3331
+VolumetricWaterContent,Dash ,High,211,60-90,5,0.3822
+VolumetricWaterContent,Dash ,High,211,90-120,5,0.3431
+VolumetricWaterContent,Dash ,High,211,120-150,5,0.4052
+VolumetricWaterContent,Dash ,High,211,150-180,5,0.347
+VolumetricWaterContent,Omaka,High,202,0-15(InRow),5,0.1387
+VolumetricWaterContent,Omaka,High,202,0-15(btwRow),5,0.1623
+VolumetricWaterContent,Omaka,High,202,15-30,5,0.1829
+VolumetricWaterContent,Omaka,High,202,30-60,5,0.2759
+VolumetricWaterContent,Omaka,High,202,60-90,5,0.3857
+VolumetricWaterContent,Omaka,High,202,90-120,5,0.3961
+VolumetricWaterContent,Omaka,High,202,120-150,5,0.3518
+VolumetricWaterContent,Omaka,High,202,150-180,5,0.4168
+VolumetricWaterContent,Omaka,High,213,0-15(InRow),5,0.1875
+VolumetricWaterContent,Omaka,High,213,0-15(btwRow),5,0.1844
+VolumetricWaterContent,Omaka,High,213,15-30,5,0.2466
+VolumetricWaterContent,Omaka,High,213,30-60,5,0.3967
+VolumetricWaterContent,Omaka,High,213,60-90,5,0.3368
+VolumetricWaterContent,Omaka,High,213,90-120,5,0.3308
+VolumetricWaterContent,Omaka,High,213,120-150,5,0.4038
+VolumetricWaterContent,Omaka,High,213,150-180,5,0.3011
+VolumetricWaterContent,Dash ,High,215,0-15(InRow),5,0.191
+VolumetricWaterContent,Dash ,High,215,0-15(btwRow),5,0.1569
+VolumetricWaterContent,Dash ,High,215,15-30,5,0.29
+VolumetricWaterContent,Dash ,High,215,30-60,5,0.3529
+VolumetricWaterContent,Dash ,High,215,60-90,5,0.3939
+VolumetricWaterContent,Dash ,High,215,90-120,5,0.425
+VolumetricWaterContent,Dash ,High,215,120-150,5,0.3483
+VolumetricWaterContent,Dash ,High,215,150-180,5,0.3932
+VolumetricWaterContent,Dash ,High,221,0-15(InRow),5,0.1936
+VolumetricWaterContent,Dash ,High,221,0-15(btwRow),5,0.1781
+VolumetricWaterContent,Dash ,High,221,15-30,5,0.2588
+VolumetricWaterContent,Dash ,High,221,30-60,5,0.3143
+VolumetricWaterContent,Dash ,High,221,60-90,5,0.3282
+VolumetricWaterContent,Dash ,High,221,90-120,5,0.3333
+VolumetricWaterContent,Dash ,High,221,120-150,5,0.2961
+VolumetricWaterContent,Dash ,High,221,150-180,5,0.386
+VolumetricWaterContent,Omaka,High,222,0-15(InRow),5,0.1537
+VolumetricWaterContent,Omaka,High,222,0-15(btwRow),5,0.1833
+VolumetricWaterContent,Omaka,High,222,15-30,5,0.1951
+VolumetricWaterContent,Omaka,High,222,30-60,5,0.2977
+VolumetricWaterContent,Omaka,High,222,60-90,5,0.2461
+VolumetricWaterContent,Omaka,High,222,90-120,5,0.37
+VolumetricWaterContent,Omaka,High,222,120-150,5,0.3418
+VolumetricWaterContent,Omaka,High,222,150-180,5,0.361
+VolumetricWaterContent,Dash ,High,206,0-15(InRow),5,0.2263
+VolumetricWaterContent,Dash ,High,206,0-15(btwRow),5,0.2018
+VolumetricWaterContent,Dash ,High,206,15-30,5,0.2535
+VolumetricWaterContent,Dash ,High,206,30-60,5,0.2867
+VolumetricWaterContent,Dash ,High,206,60-90,5,0.3438
+VolumetricWaterContent,Dash ,High,206,90-120,5,0.2935
+VolumetricWaterContent,Dash ,High,206,120-150,5,0.4325
+VolumetricWaterContent,Dash ,High,206,150-180,5,0.4211
+VolumetricWaterContent,Omaka,High,208,0-15(InRow),5,0.1766
+VolumetricWaterContent,Omaka,High,208,0-15(btwRow),5,0.1778
+VolumetricWaterContent,Omaka,High,208,15-30,5,0.1986
+VolumetricWaterContent,Omaka,High,208,30-60,5,0.3288
+VolumetricWaterContent,Omaka,High,208,60-90,5,0.3729
+VolumetricWaterContent,Omaka,High,208,90-120,5,0.3703
+VolumetricWaterContent,Omaka,High,208,120-150,5,0.2365
+VolumetricWaterContent,Omaka,High,208,150-180,5,0.4193
+VolumetricWaterContent,Dash ,High,211,0-15(InRow),5,0.1766
+VolumetricWaterContent,Dash ,High,211,0-15(btwRow),5,0.1685
+VolumetricWaterContent,Dash ,High,211,15-30,5,0.2194
+VolumetricWaterContent,Dash ,High,211,30-60,5,0.3328
+VolumetricWaterContent,Dash ,High,211,60-90,5,0.3821
+VolumetricWaterContent,Dash ,High,211,90-120,5,0.3432
+VolumetricWaterContent,Dash ,High,211,120-150,5,0.4052
+VolumetricWaterContent,Dash ,High,211,150-180,5,0.347
+VolumetricWaterContent,Omaka,High,202,0-15(InRow),5,0.1386
+VolumetricWaterContent,Omaka,High,202,0-15(btwRow),5,0.162
+VolumetricWaterContent,Omaka,High,202,15-30,5,0.1829
+VolumetricWaterContent,Omaka,High,202,30-60,5,0.2759
+VolumetricWaterContent,Omaka,High,202,60-90,5,0.3857
+VolumetricWaterContent,Omaka,High,202,90-120,5,0.3961
+VolumetricWaterContent,Omaka,High,202,120-150,5,0.3518
+VolumetricWaterContent,Omaka,High,202,150-180,5,0.4168
+VolumetricWaterContent,Omaka,High,213,0-15(InRow),5,0.1875
+VolumetricWaterContent,Omaka,High,213,0-15(btwRow),5,0.1844
+VolumetricWaterContent,Omaka,High,213,15-30,5,0.2466
+VolumetricWaterContent,Omaka,High,213,30-60,5,0.3967
+VolumetricWaterContent,Omaka,High,213,60-90,5,0.3368
+VolumetricWaterContent,Omaka,High,213,90-120,5,0.3306
+VolumetricWaterContent,Omaka,High,213,120-150,5,0.4038
+VolumetricWaterContent,Omaka,High,213,150-180,5,0.3011
+VolumetricWaterContent,Dash ,High,215,0-15(InRow),5,0.191
+VolumetricWaterContent,Dash ,High,215,0-15(btwRow),5,0.1569
+VolumetricWaterContent,Dash ,High,215,15-30,5,0.29
+VolumetricWaterContent,Dash ,High,215,30-60,5,0.353
+VolumetricWaterContent,Dash ,High,215,60-90,5,0.394
+VolumetricWaterContent,Dash ,High,215,90-120,5,0.4251
+VolumetricWaterContent,Dash ,High,215,120-150,5,0.3483
+VolumetricWaterContent,Dash ,High,215,150-180,5,0.3932
+VolumetricWaterContent,Dash ,High,221,0-15(InRow),5,0.1936
+VolumetricWaterContent,Dash ,High,221,0-15(btwRow),5,0.1781
+VolumetricWaterContent,Dash ,High,221,15-30,5,0.2585
+VolumetricWaterContent,Dash ,High,221,30-60,5,0.3142
+VolumetricWaterContent,Dash ,High,221,60-90,5,0.3283
+VolumetricWaterContent,Dash ,High,221,90-120,5,0.3333
+VolumetricWaterContent,Dash ,High,221,120-150,5,0.2961
+VolumetricWaterContent,Dash ,High,221,150-180,5,0.386
+VolumetricWaterContent,Omaka,High,222,0-15(InRow),5,0.1537
+VolumetricWaterContent,Omaka,High,222,0-15(btwRow),5,0.1833
+VolumetricWaterContent,Omaka,High,222,15-30,5,0.1951
+VolumetricWaterContent,Omaka,High,222,30-60,5,0.2977
+VolumetricWaterContent,Omaka,High,222,60-90,5,0.2461
+VolumetricWaterContent,Omaka,High,222,90-120,5,0.3701
+VolumetricWaterContent,Omaka,High,222,120-150,5,0.3418
+VolumetricWaterContent,Omaka,High,222,150-180,5,0.3611
+VolumetricWaterContent,Dash ,High,206,0-15(InRow),6,0.2264
+VolumetricWaterContent,Dash ,High,206,0-15(btwRow),6,0.2018
+VolumetricWaterContent,Dash ,High,206,15-30,6,0.2535
+VolumetricWaterContent,Dash ,High,206,30-60,6,0.2867
+VolumetricWaterContent,Dash ,High,206,60-90,6,0.3438
+VolumetricWaterContent,Dash ,High,206,90-120,6,0.2935
+VolumetricWaterContent,Dash ,High,206,120-150,6,0.4323
+VolumetricWaterContent,Dash ,High,206,150-180,6,0.4211
+VolumetricWaterContent,Omaka,High,208,0-15(InRow),6,0.1766
+VolumetricWaterContent,Omaka,High,208,0-15(btwRow),6,0.1778
+VolumetricWaterContent,Omaka,High,208,15-30,6,0.1986
+VolumetricWaterContent,Omaka,High,208,30-60,6,0.3288
+VolumetricWaterContent,Omaka,High,208,60-90,6,0.3729
+VolumetricWaterContent,Omaka,High,208,90-120,6,0.3703
+VolumetricWaterContent,Omaka,High,208,120-150,6,0.2365
+VolumetricWaterContent,Omaka,High,208,150-180,6,0.4193
+VolumetricWaterContent,Dash ,High,211,0-15(InRow),6,0.1766
+VolumetricWaterContent,Dash ,High,211,0-15(btwRow),6,0.1687
+VolumetricWaterContent,Dash ,High,211,15-30,6,0.2194
+VolumetricWaterContent,Dash ,High,211,30-60,6,0.3328
+VolumetricWaterContent,Dash ,High,211,60-90,6,0.3821
+VolumetricWaterContent,Dash ,High,211,90-120,6,0.3432
+VolumetricWaterContent,Dash ,High,211,120-150,6,0.4052
+VolumetricWaterContent,Dash ,High,211,150-180,6,0.347
+VolumetricWaterContent,Omaka,High,202,0-15(InRow),6,0.1387
+VolumetricWaterContent,Omaka,High,202,0-15(btwRow),6,0.162
+VolumetricWaterContent,Omaka,High,202,15-30,6,0.1829
+VolumetricWaterContent,Omaka,High,202,30-60,6,0.2758
+VolumetricWaterContent,Omaka,High,202,60-90,6,0.3857
+VolumetricWaterContent,Omaka,High,202,90-120,6,0.3961
+VolumetricWaterContent,Omaka,High,202,120-150,6,0.3518
+VolumetricWaterContent,Omaka,High,202,150-180,6,0.4168
+VolumetricWaterContent,Omaka,High,213,0-15(InRow),6,0.1875
+VolumetricWaterContent,Omaka,High,213,0-15(btwRow),6,0.1844
+VolumetricWaterContent,Omaka,High,213,15-30,6,0.2466
+VolumetricWaterContent,Omaka,High,213,30-60,6,0.3967
+VolumetricWaterContent,Omaka,High,213,60-90,6,0.3369
+VolumetricWaterContent,Omaka,High,213,90-120,6,0.3305
+VolumetricWaterContent,Omaka,High,213,120-150,6,0.4038
+VolumetricWaterContent,Omaka,High,213,150-180,6,0.3011
+VolumetricWaterContent,Dash ,High,215,0-15(InRow),6,0.191
+VolumetricWaterContent,Dash ,High,215,0-15(btwRow),6,0.1569
+VolumetricWaterContent,Dash ,High,215,15-30,6,0.2897
+VolumetricWaterContent,Dash ,High,215,30-60,6,0.3526
+VolumetricWaterContent,Dash ,High,215,60-90,6,0.394
+VolumetricWaterContent,Dash ,High,215,90-120,6,0.4251
+VolumetricWaterContent,Dash ,High,215,120-150,6,0.3483
+VolumetricWaterContent,Dash ,High,215,150-180,6,0.3932
+VolumetricWaterContent,Dash ,High,221,0-15(InRow),6,0.1936
+VolumetricWaterContent,Dash ,High,221,0-15(btwRow),6,0.1781
+VolumetricWaterContent,Dash ,High,221,15-30,6,0.2577
+VolumetricWaterContent,Dash ,High,221,30-60,6,0.3143
+VolumetricWaterContent,Dash ,High,221,60-90,6,0.3283
+VolumetricWaterContent,Dash ,High,221,90-120,6,0.3335
+VolumetricWaterContent,Dash ,High,221,120-150,6,0.2962
+VolumetricWaterContent,Dash ,High,221,150-180,6,0.3859
+VolumetricWaterContent,Omaka,High,222,0-15(InRow),6,0.1537
+VolumetricWaterContent,Omaka,High,222,0-15(btwRow),6,0.1833
+VolumetricWaterContent,Omaka,High,222,15-30,6,0.1948
+VolumetricWaterContent,Omaka,High,222,30-60,6,0.2977
+VolumetricWaterContent,Omaka,High,222,60-90,6,0.2458
+VolumetricWaterContent,Omaka,High,222,90-120,6,0.37
+VolumetricWaterContent,Omaka,High,222,120-150,6,0.3418
+VolumetricWaterContent,Omaka,High,222,150-180,6,0.3611
+VolumetricWaterContent,Dash ,High,206,0-15(InRow),7,0.2264
+VolumetricWaterContent,Dash ,High,206,0-15(btwRow),7,0.2018
+VolumetricWaterContent,Dash ,High,206,15-30,7,0.2533
+VolumetricWaterContent,Dash ,High,206,30-60,7,0.2867
+VolumetricWaterContent,Dash ,High,206,60-90,7,0.3438
+VolumetricWaterContent,Dash ,High,206,90-120,7,0.2934
+VolumetricWaterContent,Dash ,High,206,120-150,7,0.4325
+VolumetricWaterContent,Dash ,High,206,150-180,7,0.4211
+VolumetricWaterContent,Omaka,High,208,0-15(InRow),7,0.1763
+VolumetricWaterContent,Omaka,High,208,0-15(btwRow),7,0.1778
+VolumetricWaterContent,Omaka,High,208,15-30,7,0.1986
+VolumetricWaterContent,Omaka,High,208,30-60,7,0.3288
+VolumetricWaterContent,Omaka,High,208,60-90,7,0.3727
+VolumetricWaterContent,Omaka,High,208,90-120,7,0.3703
+VolumetricWaterContent,Omaka,High,208,120-150,7,0.2365
+VolumetricWaterContent,Omaka,High,208,150-180,7,0.4193
+VolumetricWaterContent,Dash ,High,211,0-15(InRow),7,0.1767
+VolumetricWaterContent,Dash ,High,211,0-15(btwRow),7,0.1684
+VolumetricWaterContent,Dash ,High,211,15-30,7,0.2194
+VolumetricWaterContent,Dash ,High,211,30-60,7,0.3328
+VolumetricWaterContent,Dash ,High,211,60-90,7,0.3821
+VolumetricWaterContent,Dash ,High,211,90-120,7,0.3432
+VolumetricWaterContent,Dash ,High,211,120-150,7,0.4052
+VolumetricWaterContent,Dash ,High,211,150-180,7,0.347
+VolumetricWaterContent,Omaka,High,202,0-15(InRow),7,0.1387
+VolumetricWaterContent,Omaka,High,202,0-15(btwRow),7,0.162
+VolumetricWaterContent,Omaka,High,202,15-30,7,0.183
+VolumetricWaterContent,Omaka,High,202,30-60,7,0.2758
+VolumetricWaterContent,Omaka,High,202,60-90,7,0.3857
+VolumetricWaterContent,Omaka,High,202,90-120,7,0.3961
+VolumetricWaterContent,Omaka,High,202,120-150,7,0.3518
+VolumetricWaterContent,Omaka,High,202,150-180,7,0.4168
+VolumetricWaterContent,Omaka,High,213,0-15(InRow),7,0.1873
+VolumetricWaterContent,Omaka,High,213,0-15(btwRow),7,0.1844
+VolumetricWaterContent,Omaka,High,213,15-30,7,0.2466
+VolumetricWaterContent,Omaka,High,213,30-60,7,0.3967
+VolumetricWaterContent,Omaka,High,213,60-90,7,0.3368
+VolumetricWaterContent,Omaka,High,213,90-120,7,0.3305
+VolumetricWaterContent,Omaka,High,213,120-150,7,0.4038
+VolumetricWaterContent,Omaka,High,213,150-180,7,0.3011
+VolumetricWaterContent,Dash ,High,215,0-15(InRow),7,0.191
+VolumetricWaterContent,Dash ,High,215,0-15(btwRow),7,0.1569
+VolumetricWaterContent,Dash ,High,215,15-30,7,0.2898
+VolumetricWaterContent,Dash ,High,215,30-60,7,0.3526
+VolumetricWaterContent,Dash ,High,215,60-90,7,0.394
+VolumetricWaterContent,Dash ,High,215,90-120,7,0.4251
+VolumetricWaterContent,Dash ,High,215,120-150,7,0.3483
+VolumetricWaterContent,Dash ,High,215,150-180,7,0.3932
+VolumetricWaterContent,Dash ,High,221,0-15(InRow),7,0.1936
+VolumetricWaterContent,Dash ,High,221,0-15(btwRow),7,0.1781
+VolumetricWaterContent,Dash ,High,221,15-30,7,0.2577
+VolumetricWaterContent,Dash ,High,221,30-60,7,0.3143
+VolumetricWaterContent,Dash ,High,221,60-90,7,0.3282
+VolumetricWaterContent,Dash ,High,221,90-120,7,0.3336
+VolumetricWaterContent,Dash ,High,221,120-150,7,0.2961
+VolumetricWaterContent,Dash ,High,221,150-180,7,0.386
+VolumetricWaterContent,Omaka,High,222,0-15(InRow),7,0.1538
+VolumetricWaterContent,Omaka,High,222,0-15(btwRow),7,0.1833
+VolumetricWaterContent,Omaka,High,222,15-30,7,0.1948
+VolumetricWaterContent,Omaka,High,222,30-60,7,0.2974
+VolumetricWaterContent,Omaka,High,222,60-90,7,0.2458
+VolumetricWaterContent,Omaka,High,222,90-120,7,0.37
+VolumetricWaterContent,Omaka,High,222,120-150,7,0.3418
+VolumetricWaterContent,Omaka,High,222,150-180,7,0.361
+VolumetricWaterContent,Dash ,High,206,0-15(InRow),8,0.2261
+VolumetricWaterContent,Dash ,High,206,0-15(btwRow),8,0.2018
+VolumetricWaterContent,Dash ,High,206,15-30,8,0.2533
+VolumetricWaterContent,Dash ,High,206,30-60,8,0.2867
+VolumetricWaterContent,Dash ,High,206,60-90,8,0.3438
+VolumetricWaterContent,Dash ,High,206,90-120,8,0.2935
+VolumetricWaterContent,Dash ,High,206,120-150,8,0.4325
+VolumetricWaterContent,Dash ,High,206,150-180,8,0.4211
+VolumetricWaterContent,Omaka,High,208,0-15(InRow),8,0.1763
+VolumetricWaterContent,Omaka,High,208,0-15(btwRow),8,0.1778
+VolumetricWaterContent,Omaka,High,208,15-30,8,0.1986
+VolumetricWaterContent,Omaka,High,208,30-60,8,0.3288
+VolumetricWaterContent,Omaka,High,208,60-90,8,0.3729
+VolumetricWaterContent,Omaka,High,208,90-120,8,0.3702
+VolumetricWaterContent,Omaka,High,208,120-150,8,0.2365
+VolumetricWaterContent,Omaka,High,208,150-180,8,0.4192
+VolumetricWaterContent,Dash ,High,211,0-15(InRow),8,0.1767
+VolumetricWaterContent,Dash ,High,211,0-15(btwRow),8,0.1685
+VolumetricWaterContent,Dash ,High,211,15-30,8,0.2194
+VolumetricWaterContent,Dash ,High,211,30-60,8,0.3331
+VolumetricWaterContent,Dash ,High,211,60-90,8,0.3821
+VolumetricWaterContent,Dash ,High,211,90-120,8,0.3432
+VolumetricWaterContent,Dash ,High,211,120-150,8,0.4052
+VolumetricWaterContent,Dash ,High,211,150-180,8,0.347
+VolumetricWaterContent,Omaka,High,202,0-15(InRow),8,0.1384
+VolumetricWaterContent,Omaka,High,202,0-15(btwRow),8,0.162
+VolumetricWaterContent,Omaka,High,202,15-30,8,0.1829
+VolumetricWaterContent,Omaka,High,202,30-60,8,0.2758
+VolumetricWaterContent,Omaka,High,202,60-90,8,0.3857
+VolumetricWaterContent,Omaka,High,202,90-120,8,0.3961
+VolumetricWaterContent,Omaka,High,202,120-150,8,0.3518
+VolumetricWaterContent,Omaka,High,202,150-180,8,0.4168
+VolumetricWaterContent,Omaka,High,213,0-15(InRow),8,0.1873
+VolumetricWaterContent,Omaka,High,213,0-15(btwRow),8,0.1844
+VolumetricWaterContent,Omaka,High,213,15-30,8,0.2466
+VolumetricWaterContent,Omaka,High,213,30-60,8,0.3967
+VolumetricWaterContent,Omaka,High,213,60-90,8,0.3368
+VolumetricWaterContent,Omaka,High,213,90-120,8,0.3305
+VolumetricWaterContent,Omaka,High,213,120-150,8,0.4038
+VolumetricWaterContent,Omaka,High,213,150-180,8,0.3011
+VolumetricWaterContent,Dash ,High,215,0-15(InRow),8,0.1909
+VolumetricWaterContent,Dash ,High,215,0-15(btwRow),8,0.1569
+VolumetricWaterContent,Dash ,High,215,15-30,8,0.2898
+VolumetricWaterContent,Dash ,High,215,30-60,8,0.3526
+VolumetricWaterContent,Dash ,High,215,60-90,8,0.394
+VolumetricWaterContent,Dash ,High,215,90-120,8,0.4251
+VolumetricWaterContent,Dash ,High,215,120-150,8,0.3483
+VolumetricWaterContent,Dash ,High,215,150-180,8,0.3932
+VolumetricWaterContent,Dash ,High,221,0-15(InRow),8,0.1936
+VolumetricWaterContent,Dash ,High,221,0-15(btwRow),8,0.1781
+VolumetricWaterContent,Dash ,High,221,15-30,8,0.2575
+VolumetricWaterContent,Dash ,High,221,30-60,8,0.3143
+VolumetricWaterContent,Dash ,High,221,60-90,8,0.3284
+VolumetricWaterContent,Dash ,High,221,90-120,8,0.3335
+VolumetricWaterContent,Dash ,High,221,120-150,8,0.2961
+VolumetricWaterContent,Dash ,High,221,150-180,8,0.386
+VolumetricWaterContent,Omaka,High,222,0-15(InRow),8,0.1537
+VolumetricWaterContent,Omaka,High,222,0-15(btwRow),8,0.1833
+VolumetricWaterContent,Omaka,High,222,15-30,8,0.1948
+VolumetricWaterContent,Omaka,High,222,30-60,8,0.2974
+VolumetricWaterContent,Omaka,High,222,60-90,8,0.2461
+VolumetricWaterContent,Omaka,High,222,90-120,8,0.37
+VolumetricWaterContent,Omaka,High,222,120-150,8,0.3418
+VolumetricWaterContent,Omaka,High,222,150-180,8,0.3611
+VolumetricWaterContent,Dash ,High,206,0-15(InRow),9,0.2261
+VolumetricWaterContent,Dash ,High,206,0-15(btwRow),9,0.2018
+VolumetricWaterContent,Dash ,High,206,15-30,9,0.2533
+VolumetricWaterContent,Dash ,High,206,30-60,9,0.2867
+VolumetricWaterContent,Dash ,High,206,60-90,9,0.3438
+VolumetricWaterContent,Dash ,High,206,90-120,9,0.2935
+VolumetricWaterContent,Dash ,High,206,120-150,9,0.4323
+VolumetricWaterContent,Dash ,High,206,150-180,9,0.4211
+VolumetricWaterContent,Omaka,High,208,0-15(InRow),9,0.1763
+VolumetricWaterContent,Omaka,High,208,0-15(btwRow),9,0.1778
+VolumetricWaterContent,Omaka,High,208,15-30,9,0.1986
+VolumetricWaterContent,Omaka,High,208,30-60,9,0.3288
+VolumetricWaterContent,Omaka,High,208,60-90,9,0.3729
+VolumetricWaterContent,Omaka,High,208,90-120,9,0.3703
+VolumetricWaterContent,Omaka,High,208,120-150,9,0.2365
+VolumetricWaterContent,Omaka,High,208,150-180,9,0.4193
+VolumetricWaterContent,Dash ,High,211,0-15(InRow),9,0.1767
+VolumetricWaterContent,Dash ,High,211,0-15(btwRow),9,0.1685
+VolumetricWaterContent,Dash ,High,211,15-30,9,0.2194
+VolumetricWaterContent,Dash ,High,211,30-60,9,0.3331
+VolumetricWaterContent,Dash ,High,211,60-90,9,0.3821
+VolumetricWaterContent,Dash ,High,211,90-120,9,0.3432
+VolumetricWaterContent,Dash ,High,211,120-150,9,0.4052
+VolumetricWaterContent,Dash ,High,211,150-180,9,0.347
+VolumetricWaterContent,Omaka,High,202,0-15(InRow),9,0.1384
+VolumetricWaterContent,Omaka,High,202,0-15(btwRow),9,0.162
+VolumetricWaterContent,Omaka,High,202,15-30,9,0.1829
+VolumetricWaterContent,Omaka,High,202,30-60,9,0.2758
+VolumetricWaterContent,Omaka,High,202,60-90,9,0.3857
+VolumetricWaterContent,Omaka,High,202,90-120,9,0.3961
+VolumetricWaterContent,Omaka,High,202,120-150,9,0.3518
+VolumetricWaterContent,Omaka,High,202,150-180,9,0.4168
+VolumetricWaterContent,Omaka,High,213,0-15(InRow),9,0.1873
+VolumetricWaterContent,Omaka,High,213,0-15(btwRow),9,0.1844
+VolumetricWaterContent,Omaka,High,213,15-30,9,0.2466
+VolumetricWaterContent,Omaka,High,213,30-60,9,0.3965
+VolumetricWaterContent,Omaka,High,213,60-90,9,0.3368
+VolumetricWaterContent,Omaka,High,213,90-120,9,0.3305
+VolumetricWaterContent,Omaka,High,213,120-150,9,0.4038
+VolumetricWaterContent,Omaka,High,213,150-180,9,0.3011
+VolumetricWaterContent,Dash ,High,215,0-15(InRow),9,0.191
+VolumetricWaterContent,Dash ,High,215,0-15(btwRow),9,0.1569
+VolumetricWaterContent,Dash ,High,215,15-30,9,0.2898
+VolumetricWaterContent,Dash ,High,215,30-60,9,0.3527
+VolumetricWaterContent,Dash ,High,215,60-90,9,0.394
+VolumetricWaterContent,Dash ,High,215,90-120,9,0.4251
+VolumetricWaterContent,Dash ,High,215,120-150,9,0.3483
+VolumetricWaterContent,Dash ,High,215,150-180,9,0.3932
+VolumetricWaterContent,Dash ,High,221,0-15(InRow),9,0.1936
+VolumetricWaterContent,Dash ,High,221,0-15(btwRow),9,0.1781
+VolumetricWaterContent,Dash ,High,221,15-30,9,0.2575
+VolumetricWaterContent,Dash ,High,221,30-60,9,0.3143
+VolumetricWaterContent,Dash ,High,221,60-90,9,0.3284
+VolumetricWaterContent,Dash ,High,221,90-120,9,0.3335
+VolumetricWaterContent,Dash ,High,221,120-150,9,0.2961
+VolumetricWaterContent,Dash ,High,221,150-180,9,0.386
+VolumetricWaterContent,Omaka,High,222,0-15(InRow),9,0.1537
+VolumetricWaterContent,Omaka,High,222,0-15(btwRow),9,0.1833
+VolumetricWaterContent,Omaka,High,222,15-30,9,0.1949
+VolumetricWaterContent,Omaka,High,222,30-60,9,0.2974
+VolumetricWaterContent,Omaka,High,222,60-90,9,0.2457
+VolumetricWaterContent,Omaka,High,222,90-120,9,0.37
+VolumetricWaterContent,Omaka,High,222,120-150,9,0.3418
+VolumetricWaterContent,Omaka,High,222,150-180,9,0.3611
+VolumetricWaterContent,Dash ,High,206,0-15(InRow),10,0.2261
+VolumetricWaterContent,Dash ,High,206,0-15(btwRow),10,0.2018
+VolumetricWaterContent,Dash ,High,206,15-30,10,0.2533
+VolumetricWaterContent,Dash ,High,206,30-60,10,0.2868
+VolumetricWaterContent,Dash ,High,206,60-90,10,0.3438
+VolumetricWaterContent,Dash ,High,206,90-120,10,0.2934
+VolumetricWaterContent,Dash ,High,206,120-150,10,0.4323
+VolumetricWaterContent,Dash ,High,206,150-180,10,0.4211
+VolumetricWaterContent,Omaka,High,208,0-15(InRow),10,0.1763
+VolumetricWaterContent,Omaka,High,208,0-15(btwRow),10,0.1775
+VolumetricWaterContent,Omaka,High,208,15-30,10,0.1986
+VolumetricWaterContent,Omaka,High,208,30-60,10,0.3288
+VolumetricWaterContent,Omaka,High,208,60-90,10,0.3729
+VolumetricWaterContent,Omaka,High,208,90-120,10,0.37
+VolumetricWaterContent,Omaka,High,208,120-150,10,0.2365
+VolumetricWaterContent,Omaka,High,208,150-180,10,0.4194
+VolumetricWaterContent,Dash ,High,211,0-15(InRow),10,0.1764
+VolumetricWaterContent,Dash ,High,211,0-15(btwRow),10,0.1685
+VolumetricWaterContent,Dash ,High,211,15-30,10,0.2194
+VolumetricWaterContent,Dash ,High,211,30-60,10,0.3331
+VolumetricWaterContent,Dash ,High,211,60-90,10,0.3821
+VolumetricWaterContent,Dash ,High,211,90-120,10,0.3431
+VolumetricWaterContent,Dash ,High,211,120-150,10,0.4052
+VolumetricWaterContent,Dash ,High,211,150-180,10,0.347
+VolumetricWaterContent,Omaka,High,202,0-15(InRow),10,0.1387
+VolumetricWaterContent,Omaka,High,202,0-15(btwRow),10,0.1621
+VolumetricWaterContent,Omaka,High,202,15-30,10,0.1829
+VolumetricWaterContent,Omaka,High,202,30-60,10,0.2759
+VolumetricWaterContent,Omaka,High,202,60-90,10,0.3857
+VolumetricWaterContent,Omaka,High,202,90-120,10,0.3961
+VolumetricWaterContent,Omaka,High,202,120-150,10,0.3518
+VolumetricWaterContent,Omaka,High,202,150-180,10,0.4168
+VolumetricWaterContent,Omaka,High,213,0-15(InRow),10,0.1873
+VolumetricWaterContent,Omaka,High,213,0-15(btwRow),10,0.1844
+VolumetricWaterContent,Omaka,High,213,15-30,10,0.2466
+VolumetricWaterContent,Omaka,High,213,30-60,10,0.3967
+VolumetricWaterContent,Omaka,High,213,60-90,10,0.3368
+VolumetricWaterContent,Omaka,High,213,90-120,10,0.3305
+VolumetricWaterContent,Omaka,High,213,120-150,10,0.4038
+VolumetricWaterContent,Omaka,High,213,150-180,10,0.3011
+VolumetricWaterContent,Dash ,High,215,0-15(InRow),10,0.1913
+VolumetricWaterContent,Dash ,High,215,0-15(btwRow),10,0.1569
+VolumetricWaterContent,Dash ,High,215,15-30,10,0.2898
+VolumetricWaterContent,Dash ,High,215,30-60,10,0.3527
+VolumetricWaterContent,Dash ,High,215,60-90,10,0.394
+VolumetricWaterContent,Dash ,High,215,90-120,10,0.4251
+VolumetricWaterContent,Dash ,High,215,120-150,10,0.3483
+VolumetricWaterContent,Dash ,High,215,150-180,10,0.3932
+VolumetricWaterContent,Dash ,High,221,0-15(InRow),10,0.1936
+VolumetricWaterContent,Dash ,High,221,0-15(btwRow),10,0.1781
+VolumetricWaterContent,Dash ,High,221,15-30,10,0.2572
+VolumetricWaterContent,Dash ,High,221,30-60,10,0.3142
+VolumetricWaterContent,Dash ,High,221,60-90,10,0.328
+VolumetricWaterContent,Dash ,High,221,90-120,10,0.3335
+VolumetricWaterContent,Dash ,High,221,120-150,10,0.2961
+VolumetricWaterContent,Dash ,High,221,150-180,10,0.386
+VolumetricWaterContent,Omaka,High,222,0-15(InRow),10,0.1538
+VolumetricWaterContent,Omaka,High,222,0-15(btwRow),10,0.1832
+VolumetricWaterContent,Omaka,High,222,15-30,10,0.1949
+VolumetricWaterContent,Omaka,High,222,30-60,10,0.2974
+VolumetricWaterContent,Omaka,High,222,60-90,10,0.2458
+VolumetricWaterContent,Omaka,High,222,90-120,10,0.37
+VolumetricWaterContent,Omaka,High,222,120-150,10,0.3418
+VolumetricWaterContent,Omaka,High,222,150-180,10,0.3611
+VolumetricWaterContent,Dash ,High,206,0-15(InRow),11,0.2261
+VolumetricWaterContent,Dash ,High,206,0-15(btwRow),11,0.2018
+VolumetricWaterContent,Dash ,High,206,15-30,11,0.2533
+VolumetricWaterContent,Dash ,High,206,30-60,11,0.2867
+VolumetricWaterContent,Dash ,High,206,60-90,11,0.3438
+VolumetricWaterContent,Dash ,High,206,90-120,11,0.2935
+VolumetricWaterContent,Dash ,High,206,120-150,11,0.4323
+VolumetricWaterContent,Dash ,High,206,150-180,11,0.4211
+VolumetricWaterContent,Omaka,High,208,0-15(InRow),11,0.1763
+VolumetricWaterContent,Omaka,High,208,0-15(btwRow),11,0.1775
+VolumetricWaterContent,Omaka,High,208,15-30,11,0.1986
+VolumetricWaterContent,Omaka,High,208,30-60,11,0.3288
+VolumetricWaterContent,Omaka,High,208,60-90,11,0.3729
+VolumetricWaterContent,Omaka,High,208,90-120,11,0.3701
+VolumetricWaterContent,Omaka,High,208,120-150,11,0.2365
+VolumetricWaterContent,Omaka,High,208,150-180,11,0.4193
+VolumetricWaterContent,Dash ,High,211,0-15(InRow),11,0.1764
+VolumetricWaterContent,Dash ,High,211,0-15(btwRow),11,0.1685
+VolumetricWaterContent,Dash ,High,211,15-30,11,0.2194
+VolumetricWaterContent,Dash ,High,211,30-60,11,0.3331
+VolumetricWaterContent,Dash ,High,211,60-90,11,0.3821
+VolumetricWaterContent,Dash ,High,211,90-120,11,0.3432
+VolumetricWaterContent,Dash ,High,211,120-150,11,0.4052
+VolumetricWaterContent,Dash ,High,211,150-180,11,0.347
+VolumetricWaterContent,Omaka,High,202,0-15(InRow),11,0.1385
+VolumetricWaterContent,Omaka,High,202,0-15(btwRow),11,0.1621
+VolumetricWaterContent,Omaka,High,202,15-30,11,0.1829
+VolumetricWaterContent,Omaka,High,202,30-60,11,0.2759
+VolumetricWaterContent,Omaka,High,202,60-90,11,0.3857
+VolumetricWaterContent,Omaka,High,202,90-120,11,0.3961
+VolumetricWaterContent,Omaka,High,202,120-150,11,0.3518
+VolumetricWaterContent,Omaka,High,202,150-180,11,0.4168
+VolumetricWaterContent,Omaka,High,213,0-15(InRow),11,0.1873
+VolumetricWaterContent,Omaka,High,213,0-15(btwRow),11,0.1844
+VolumetricWaterContent,Omaka,High,213,15-30,11,0.2466
+VolumetricWaterContent,Omaka,High,213,30-60,11,0.3967
+VolumetricWaterContent,Omaka,High,213,60-90,11,0.3368
+VolumetricWaterContent,Omaka,High,213,90-120,11,0.3305
+VolumetricWaterContent,Omaka,High,213,120-150,11,0.4038
+VolumetricWaterContent,Omaka,High,213,150-180,11,0.3011
+VolumetricWaterContent,Dash ,High,215,0-15(InRow),11,0.191
+VolumetricWaterContent,Dash ,High,215,0-15(btwRow),11,0.1569
+VolumetricWaterContent,Dash ,High,215,15-30,11,0.2895
+VolumetricWaterContent,Dash ,High,215,30-60,11,0.3527
+VolumetricWaterContent,Dash ,High,215,60-90,11,0.3939
+VolumetricWaterContent,Dash ,High,215,90-120,11,0.425
+VolumetricWaterContent,Dash ,High,215,120-150,11,0.3483
+VolumetricWaterContent,Dash ,High,215,150-180,11,0.3934
+VolumetricWaterContent,Dash ,High,221,0-15(InRow),11,0.1936
+VolumetricWaterContent,Dash ,High,221,0-15(btwRow),11,0.1781
+VolumetricWaterContent,Dash ,High,221,15-30,11,0.2572
+VolumetricWaterContent,Dash ,High,221,30-60,11,0.3143
+VolumetricWaterContent,Dash ,High,221,60-90,11,0.3282
+VolumetricWaterContent,Dash ,High,221,90-120,11,0.3333
+VolumetricWaterContent,Dash ,High,221,120-150,11,0.2961
+VolumetricWaterContent,Dash ,High,221,150-180,11,0.386
+VolumetricWaterContent,Omaka,High,222,0-15(InRow),11,0.1538
+VolumetricWaterContent,Omaka,High,222,0-15(btwRow),11,0.1833
+VolumetricWaterContent,Omaka,High,222,15-30,11,0.1949
+VolumetricWaterContent,Omaka,High,222,30-60,11,0.2974
+VolumetricWaterContent,Omaka,High,222,60-90,11,0.2458
+VolumetricWaterContent,Omaka,High,222,90-120,11,0.37
+VolumetricWaterContent,Omaka,High,222,120-150,11,0.3418
+VolumetricWaterContent,Omaka,High,222,150-180,11,0.3611
+VolumetricWaterContent,Dash ,High,206,0-15(InRow),12,0.2261
+VolumetricWaterContent,Dash ,High,206,0-15(btwRow),12,0.2018
+VolumetricWaterContent,Dash ,High,206,15-30,12,0.2533
+VolumetricWaterContent,Dash ,High,206,30-60,12,0.2867
+VolumetricWaterContent,Dash ,High,206,60-90,12,0.3438
+VolumetricWaterContent,Dash ,High,206,90-120,12,0.2935
+VolumetricWaterContent,Dash ,High,206,120-150,12,0.4323
+VolumetricWaterContent,Dash ,High,206,150-180,12,0.4211
+VolumetricWaterContent,Omaka,High,208,0-15(InRow),12,0.1763
+VolumetricWaterContent,Omaka,High,208,0-15(btwRow),12,0.1775
+VolumetricWaterContent,Omaka,High,208,15-30,12,0.1986
+VolumetricWaterContent,Omaka,High,208,30-60,12,0.3289
+VolumetricWaterContent,Omaka,High,208,60-90,12,0.3729
+VolumetricWaterContent,Omaka,High,208,90-120,12,0.3702
+VolumetricWaterContent,Omaka,High,208,120-150,12,0.2362
+VolumetricWaterContent,Omaka,High,208,150-180,12,0.4192
+VolumetricWaterContent,Dash ,High,211,0-15(InRow),12,0.1764
+VolumetricWaterContent,Dash ,High,211,0-15(btwRow),12,0.1685
+VolumetricWaterContent,Dash ,High,211,15-30,12,0.2194
+VolumetricWaterContent,Dash ,High,211,30-60,12,0.3328
+VolumetricWaterContent,Dash ,High,211,60-90,12,0.3822
+VolumetricWaterContent,Dash ,High,211,90-120,12,0.3432
+VolumetricWaterContent,Dash ,High,211,120-150,12,0.4052
+VolumetricWaterContent,Dash ,High,211,150-180,12,0.347
+VolumetricWaterContent,Omaka,High,202,0-15(InRow),12,0.1384
+VolumetricWaterContent,Omaka,High,202,0-15(btwRow),12,0.1618
+VolumetricWaterContent,Omaka,High,202,15-30,12,0.1829
+VolumetricWaterContent,Omaka,High,202,30-60,12,0.2758
+VolumetricWaterContent,Omaka,High,202,60-90,12,0.3857
+VolumetricWaterContent,Omaka,High,202,90-120,12,0.3961
+VolumetricWaterContent,Omaka,High,202,120-150,12,0.3518
+VolumetricWaterContent,Omaka,High,202,150-180,12,0.4168
+VolumetricWaterContent,Omaka,High,213,0-15(InRow),12,0.1873
+VolumetricWaterContent,Omaka,High,213,0-15(btwRow),12,0.1841
+VolumetricWaterContent,Omaka,High,213,15-30,12,0.2466
+VolumetricWaterContent,Omaka,High,213,30-60,12,0.3967
+VolumetricWaterContent,Omaka,High,213,60-90,12,0.3368
+VolumetricWaterContent,Omaka,High,213,90-120,12,0.3305
+VolumetricWaterContent,Omaka,High,213,120-150,12,0.4038
+VolumetricWaterContent,Omaka,High,213,150-180,12,0.3011
+VolumetricWaterContent,Dash ,High,215,0-15(InRow),12,0.191
+VolumetricWaterContent,Dash ,High,215,0-15(btwRow),12,0.1569
+VolumetricWaterContent,Dash ,High,215,15-30,12,0.2896
+VolumetricWaterContent,Dash ,High,215,30-60,12,0.3527
+VolumetricWaterContent,Dash ,High,215,60-90,12,0.3939
+VolumetricWaterContent,Dash ,High,215,90-120,12,0.425
+VolumetricWaterContent,Dash ,High,215,120-150,12,0.3483
+VolumetricWaterContent,Dash ,High,215,150-180,12,0.3934
+VolumetricWaterContent,Dash ,High,221,0-15(InRow),12,0.1936
+VolumetricWaterContent,Dash ,High,221,0-15(btwRow),12,0.1781
+VolumetricWaterContent,Dash ,High,221,15-30,12,0.2573
+VolumetricWaterContent,Dash ,High,221,30-60,12,0.3142
+VolumetricWaterContent,Dash ,High,221,60-90,12,0.3282
+VolumetricWaterContent,Dash ,High,221,90-120,12,0.3333
+VolumetricWaterContent,Dash ,High,221,120-150,12,0.2962
+VolumetricWaterContent,Dash ,High,221,150-180,12,0.386
+VolumetricWaterContent,Omaka,High,222,0-15(InRow),12,0.1538
+VolumetricWaterContent,Omaka,High,222,0-15(btwRow),12,0.183
+VolumetricWaterContent,Omaka,High,222,15-30,12,0.1951
+VolumetricWaterContent,Omaka,High,222,30-60,12,0.2974
+VolumetricWaterContent,Omaka,High,222,60-90,12,0.2458
+VolumetricWaterContent,Omaka,High,222,90-120,12,0.37
+VolumetricWaterContent,Omaka,High,222,120-150,12,0.3418
+VolumetricWaterContent,Omaka,High,222,150-180,12,0.361
