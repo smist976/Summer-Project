@@ -1,0 +1,4 @@
+Contains files for updating data tables from csv file and graphing trials. 
+
+Mai files are Seabor TSPlot and ggplot and Bokeh, Plotly, MPLD3
+
